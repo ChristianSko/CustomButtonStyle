@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7E76F174289917580021ED6E /* CustomButtonStyleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E76F173289917580021ED6E /* CustomButtonStyleApp.swift */; };
-		7E76F176289917580021ED6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E76F175289917580021ED6E /* ContentView.swift */; };
+		7E76F176289917580021ED6E /* CustomButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E76F175289917580021ED6E /* CustomButtonStyle.swift */; };
 		7E76F1782899175A0021ED6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E76F1772899175A0021ED6E /* Assets.xcassets */; };
 		7E76F17B2899175A0021ED6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E76F17A2899175A0021ED6E /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		7E76F170289917580021ED6E /* CustomButtonStyle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomButtonStyle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E76F173289917580021ED6E /* CustomButtonStyleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyleApp.swift; sourceTree = "<group>"; };
-		7E76F175289917580021ED6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7E76F175289917580021ED6E /* CustomButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyle.swift; sourceTree = "<group>"; };
 		7E76F1772899175A0021ED6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E76F17A2899175A0021ED6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				7E76F173289917580021ED6E /* CustomButtonStyleApp.swift */,
-				7E76F175289917580021ED6E /* ContentView.swift */,
+				7E76F175289917580021ED6E /* CustomButtonStyle.swift */,
 				7E76F1772899175A0021ED6E /* Assets.xcassets */,
 				7E76F1792899175A0021ED6E /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E76F176289917580021ED6E /* ContentView.swift in Sources */,
+				7E76F176289917580021ED6E /* CustomButtonStyle.swift in Sources */,
 				7E76F174289917580021ED6E /* CustomButtonStyleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

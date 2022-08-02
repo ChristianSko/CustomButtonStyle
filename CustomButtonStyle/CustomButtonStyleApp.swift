@@ -11,7 +11,7 @@ import SwiftUI
 struct CustomButtonStyleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomButtonStyle()
         }
     }
 }
